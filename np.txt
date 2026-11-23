@@ -1,0 +1,60 @@
+hai i need ki tu ek mera personal fitness app banaye
+
+Maine ek fitness program join kiya tha last year
+
+Woh pura program ko mai mere personal app mai daalna chahta hu taaki program hi meri habit ban jaaye
+
+Mai saare notes, calorie charts, tracking system, exercise phases, starting 0,1,2
+
+Tracking system, calorie chart
+
+App aisa ho ki mai select kro for eg 6 months streak
+
+Ab usme mai phase select kru
+
+Fir mai for eg week1 mai aaj gym mai hu toh mujhe vatayega woh ki aaj tumko eg. Chest marna hai toh i can see and select wxercises... kitne sets maare kitne reps maare usi ke etc..
+
+Kitne load se maara etc.
+
+Fir mai usme subtitutes bhi for each one ofnthe exercise choose kr paau
+
+Fir eg mai agar khana kha rha hu toh mai select kr paau and details bhr paau ki maine eg. 2 roti 1 sabji khayi hai meri details log ho jaayegiii
+
+Fir mera ek aur scene rahega over all tracking
+
+Rpgram mai abhi filhal exercise tracking nahi hai woh bhi add krna hai
+
+Apna app program ke saare features and contwnt end to end daalega
+
+Exercise tutrials ko skip krna abhi
+
+Deep analysis kro pura progran samjho fir ek app banao where we take a streak, clories is tracked, exercise is tracked and overall progress is tracked including exercises
+
+Pura progran yaad nahi hai documents attched se samajh and app bana..
+
+Tu pehle yeh 5 files go through krle fir mai deta hu 2 air files.
+[11:17 PM]Haan, lekin simple PIN/password protection chahiye
+
+Progress Tracking — Kaunse metrics abhi include karun?
+
+Jo documents mein mile, wahi sab include karo; Jo docs mai hai woh sab including photos but also need a seperate tracking of workouts... like which exercuse mai kitna weight kitna reps
+[11:18 PM]Streak selection and habit tracking koi feature nahi balki intentions hai app banane ke peeche Nutrtion plan apne ko bass dikhna chahiye Calorie tracking dashboard pe Even add the walking steps (will add manually) Meal login khud kr sakta hu din bhar jo bhi khauga add krte rhuga
+
+Programs ke saare almost all points Ko socho kaha kaha kounsa wordings fit honga Lines bahut imp hai
+
+Jaise hi login kru ek dashboard dikhe Calories intake Weight Steps All for yesterday or last date Calories will be current
+
+Fir
+
+Option to go to nutrition section Yaha plan dekh sakta hu Calories add kr skta hu Drop down mai option aayega to select For eg 1 boil egg mai white mai 4gm prtoein aaga hai
+Toh i can just choose 3,2,1 etc egg white and automatically calories aajayegi I can edit that too
+
+Fir 1 section for workout section
+
+I can tick ki today i went for workout Can choose which phase today i choosed Which day i choosed Then i can choose Then automatically a table created entry for each exercise auto populated i can change the exercise with substitutes Can add a weight reps etc.
+
+Saare pointers jo likhe hai unko apko sochna hai kaha kaha fit krna hai and kaisa dikhana hai
+
+Fir ek overall tracker ka third option rahega Where I just choose the week wise data i can see
+
+Best app design kro
